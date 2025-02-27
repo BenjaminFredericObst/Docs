@@ -2,5 +2,5 @@
 
 ![Octocat](https://octodex.github.com/images/securitocat.png)  
 Hier geht es zu den Seiten:
-- [Geschichte](docs/history.md)
-- [Bedeutung](docs/meaning.md)
+- [Geschichte](./history.md)
+- [Bedeutung](./meaning.md)

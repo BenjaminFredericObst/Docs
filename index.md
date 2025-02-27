@@ -1,4 +1,4 @@
 # Willkommen zur Dokumentation über Oktocat 🐙  
 
-![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)  
+![Octocat](https://octodex.github.com/images/securitocat.png)  
 Hier geht es zu den Seiten:
